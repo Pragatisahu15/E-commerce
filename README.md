@@ -1,5 +1,7 @@
 # E-commerce
-Visit Project-
-https://www.linkedin.com/posts/pragati-sahu-987368229_webdevelopment-mernstack-codingshuttle-activity-7110771270077583360-dQd7?utm_source=share&utm_medium=member_desktop
+Visit Project- https://artvista-e-commerce.vercel.app/
+Note: The database may take a few seconds to load initially. If data doesn’t appear immediately, please refresh the page
+and wait a little while for the full content to load
+
   
  
